@@ -1,5 +1,6 @@
 var playlist = {
-  key:value
+jackson:moonwalk,
+
 }
 function updatePlaylist(object,artName,song){
   //object[artName]=song
